@@ -8,6 +8,8 @@ Gac technology
               - "pwd" par le mot de passe permettant de se connecter à la base de données (entre guillemets), 
               - "db" par "gactechnology".
               
+> Ajouter le fichier 'tickets_appels_201202.csv' à la racine du projet
+              
 > Pour exécuter le script du point 1, exécuter le fichier 'Helpers/handleDataImportation.php'
 
 > Pour exécuter le script du point , exécuter le fichier 'Helpers/handleGetData.php'
